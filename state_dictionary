@@ -1,0 +1,12 @@
+x = 'NY'
+f = open("/share/data/states.txt")
+D = {}
+lines = f.readlines()
+
+for i in range(51):
+  parts = lines[i].split()
+  D[parts[0]] = parts[1]
+  if len(parts)>2:
+    D[parts[0]] = parts[1]+parts[2]
+
+print D[x]
