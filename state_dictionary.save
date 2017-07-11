@@ -1,0 +1,8 @@
+x = 'WA'
+f = open("/share/data/states.txt")
+lines = f.readlines()
+x = lines[0].split()
+for i in x:
+  print i
+
+parts = line
