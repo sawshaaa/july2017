@@ -1,3 +1,16 @@
 import random
-x = random.randint(0,9)
-print x
+
+s = ""
+
+for i in range(300):
+  x = random.randint(0,3)
+  if x==0:
+    s = s + "A"
+  if x==1:
+    s = s + "C"
+  if x==2:
+    s = s + "G"
+  if x==3:
+    s = s + "T"
+
+print s
