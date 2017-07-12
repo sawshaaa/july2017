@@ -1,0 +1,23 @@
+#importing the file and creating the dictionary
+s = open("/share/data/login.txt")
+D = {}
+info = s.readlines()
+for i in info:
+  x = i.split()
+  D[x[0]] = x[1]
+#print D is to see the usernames and passwords that work
+
+#creating a space for raw input/the username to be entered
+m = raw_input("enter username:  ")
+
+#comparing the raw input to the information in the dictionary and input for password
+if m in D:
+  t = raw_input("enter password:  ")
+else:
+    print "not a username"
+
+#password recognition  
+if t in D[m]:
+  print "you're in, kid!"
+else:
+  print "incorrect password"
