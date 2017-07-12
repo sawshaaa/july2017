@@ -1,47 +1,288 @@
-MUSCLE (3.8) multiple sequence alignment
-
-
-tr|B5X2T3|B5X2T3_SALSA      MLRIVLSRILPRISGISNCQYSAAAIPVPSAHPEVHYNKLFINNEWQDAVSKRSFPTINP
-sp|P12762|ALDH2_HORSE       ------------------AAAATQAVPAPNQQPEVFYNQIFINNEWHDAVSKKTFPTVNP
-sp|P05091|ALDH2_HUMAN       MLRAA-ARFGPRLGRRLLSAAATQAVPAPNQQPEVFCNQIFINNEWHDAVSRKTFPTVNP
-                                              .  :: *:*.*. :***. *::******:****..:***:**
-
-tr|B5X2T3|B5X2T3_SALSA      ATGEVICQVAEADKADVDKAVKAAREAFRFGSPWRRMDASDRGLLLSRLADAIERDTAYL
-sp|P12762|ALDH2_HORSE       STGEVICQVAAGDKEDVDRAVKAARAAFQLGSPWRRMDASDRGRLLNRLADLIERDRTYL
-sp|P05091|ALDH2_HUMAN       STGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLIERDRTYL
-                            :********* .** ***.****** **.:********** ** **.**** **** :**
-
-tr|B5X2T3|B5X2T3_SALSA      AELETLDNGKPYAVSYSVDVPMVVKCLRYYAGWADKWEGKTIPIDGDFFCYTRHEPIGVC
-sp|P12762|ALDH2_HORSE       AALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVGVC
-sp|P05091|ALDH2_HUMAN       AALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTRHEPVGVC
-                            * **********.:** **: **:************: ***********.******:***
-
-tr|B5X2T3|B5X2T3_SALSA      GQIIPWNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLIKEVGFPPGVVNILP
-sp|P12762|ALDH2_HORSE       GQIIPWNFPLLMQAAKLGPALATGNVVVMKVAEQTPLTALYVANLTKEAGFPPGVVNVVP
-sp|P05091|ALDH2_HUMAN       GQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPPGVVNIVP
-                            ************** **********.*****************.* **.********::*
-
-tr|B5X2T3|B5X2T3_SALSA      GMGPSAGSAIASHMDVDKVAFTGSTEVGHLIQQASGSSNLKKVTLELGGKSPNIIMSDAN
-sp|P12762|ALDH2_HORSE       GFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGRSNLKKVTLELGGKSPNIIVSDAD
-sp|P05091|ALDH2_HUMAN       GFGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPNIIMSDAD
-                            *:**:**:***** ************:*.:** *:* ****.*************:***:
-
-tr|B5X2T3|B5X2T3_SALSA      MAEAVEQSHFALFFNQGQCCCAGSRTYVQDTIYDEFMERSVERAKSRVVGDPFNMKTEQG
-sp|P12762|ALDH2_HORSE       MDWAVEQAHFALFFNQGQCCGAGSRTFVQEDVYAEFVERSVARAKSRVVGNPFDSQTEQG
-sp|P05091|ALDH2_HUMAN       MDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPFDSKTEQG
-                            *  ****:************ *****:**: :* **:**** ********:**: :****
-
-tr|B5X2T3|B5X2T3_SALSA      PQVDEEQFKKILGYISSGKREGAKLMCGGGVAADRGYFIQPTIFGDVQDGMTIAREEIFG
-sp|P12762|ALDH2_HORSE       PQVDETQFNKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTIAKEEIFG
-sp|P05091|ALDH2_HUMAN       PQVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTIAKEEIFG
-                            ***** **:*:****.:** *****:**** ***********:***********.*****
-
-tr|B5X2T3|B5X2T3_SALSA      PVMQILKFKTLEEVVERANDTKYGLAAAVFTKDIDKAHYISSGLRAGTVWINCYDVFGVQ
-sp|P12762|ALDH2_HORSE       PVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWINCYDVFGAQ
-sp|P05091|ALDH2_HUMAN       PVMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWVNCYDVFGAQ
-                            **********:**** ***::.***********:***:*:*..*.*****:*******.*
-
-tr|B5X2T3|B5X2T3_SALSA      APFGGYKYSGNGRELGEYGLDNYTEVKTVTIKVPQKNS
-sp|P12762|ALDH2_HORSE       SPFGGYKMSGNGRELGEYGLQAYTEVKTVTIKVPQKNS
-sp|P05091|ALDH2_HUMAN       SPFGGYKMSGSGRELGEYGLQAYTEVKTVTVKVPQKNS
-                            :****** **.*********: ********:*******
+>sp|P46367|ALDH4_YEAST Potassium-activated aldehyde dehydrogenase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=ALD4 PE=1 SV=2
+MFSRSTLCLKTSASSIGRLQLRYFSHLPMTVPIKLPNGLEYEQPTGLFINNKFVPSKQNK
+TFEVINPSTEEEICHIYEGREDDVEEAVQAADRAFSNGS-WNGIDPIDRGKALYRLAELI
+EQDKDVIASIETLDNGKA-ISSSRGDVDLVINYLKSSAGFADKIDGRMIDTGRTHFSYTK
+RQPLGVCGQIIPWNFPLLMWAWKIAPALVTGNTVVLKTAESTPLSALYVSKYIPQAGIPP
+GVINIVSGFGKIVGEAITNHPKIKKVAFTGSTATGRHIYQSAA-AGLKKVTLELGGKSPN
+IVFADAELKKAVQNIILGIYYNSGEVCCAGSRVYVEESIYDKFIEEFKAASESIKVGDPF
+DESTFQGAQTSQMQLNKILKYVDIGKNEGATLITGGERLGSKGYFIKPTVFGDVKEDMRI
+VKEEI--FGPVVTVTKFKSADEVINMANDSEYGLAAGIHTSNINTALKVADRVNAGTVWI
+NTYNDFHHAVPFGGFNASGLGREMSVDALQNYLQVKAV----------------------
+---------------RAKLDE---------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|V8PCJ0|V8PCJ0_OPHHA Aldehyde dehydrogenase, mitochondrial OS=Ophiophagus hannah GN=ALDH2 PE=3 SV=1
+------------------------------------------------------------
+-------------------------------------------MDASQRGKLLNRLADLI
+ERDRTYLAALETLDNGKPYAISYLVDLDMVVKKLRYYAGWADKLHGKTIPVDGDFFTYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKLAEQTPLTGLYVANLIQEAGFPP
+GVVNIIPGYGPTAGAAISSHMEVDKVAFTGSTSVGHLIQKAAADSNMKRVTLELGGKSPN
+IIMSDAEMDWAVEQSHSALFFNQGQCCCAGSRTFVQEDIYHEFVERSVERAKSRIVGNPF
+DFQTEQGPQVDETQYKKILGYIDSGKKEGAKLLCGGSPAADKGYFIQPTIFGDVQDNMKI
+AKEEI--FGPVMQIFKFKTIEEVIQRANETKYGLAAAVFTKDIDKANYISQGLRAGTVWI
+NCYNVFGAQAPFGGFKESGQGREGGEYGLNPYMEVKTVSTVTIPSFELISSDQVRLHMMC
+AAHPNIVQIIEVYANSVQFPHESSPRSRLLIVMEMMEGGELFHRISQHRHFTEKQASEVT
+KQASFNPPTNLPVLPWIAKTRLLKIGAIKEQNIPSRLIMGWIWNEPVDPIALALQHCHSL
+NIAHRDLKPENLLFKDNSLDAPVKLCDFGFAKIDQGDLMTPQFTPYYVAPQVRASFLGLS
+GVFSRTGSPCAMRSEASGYFPFAQQVLEAQRRHQKEKCGIIPTSPTPYTYNKSCDLWSLG
+VIIYVMLCGYPPFYSKHHSRTIPKDMRKKIMTGSFEFPEEEWSQISEMAKDIVRKLTTEG
+VLDHPWLNSTEALDNILPSAQLMMDKAMVAGIQQAHAEQLANMRIQDLKVSLKPLHSVNN
+PILRKRKLLGTKPKESVYIHDPENSSKDSNVALEKLRDVIAQCILPQAGKGENEDEKLNE
+VMQEAWKYNRECKLLRDTLQTFSWNGRGFTDKVDRLKLAEIVKQVIEEQTAAHESQ
+>tr|H9GF00|H9GF00_ANOCA Uncharacterized protein OS=Anolis carolinensis GN=aldh2 PE=3 SV=1
+MWQAVLRSSRAAPLRLALLASRPLSAAAVPAPNPQPE-VICNK---IFINNEWHDAASKK
+SFPTINPSTGEVICQVAEGDKADVDKAVKAAKEAFRFGSPWRRMDASHRSKLINRLADLI
+ERDRAYLAALETLDNGKPYSISYLVDLDMVVKNLRYYAGWADKIHGKTIPLDGDFFTYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKLAEQTPLTGLYVASLIKEAGFPP
+GVVNVIPGFGKTAGAAISSHMEVDKVAFTGSTEVGHLIQKAAAESNMKRVTLELGGKSPN
+IIMSDADMDWAVEQAHSALFFNQGQCCCAGSRTYVQEDIYHEFVERSVERAKSRVVGNPF
+DFKTEQGPQVDEDQYNKILGYINAGKKEGAKLLCGGNPAADKGYFIQPTIFGEVQDDMTI
+AREEVRSLGPVMQILKFKSIEEVIHRANDTKYGLAAAVFTKDIDKANYISQGLRAGTVWI
+NCYNVFGAQVPFGGYKASGQGREGGEYGLTPYMEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|M3X7B5|M3X7B5_FELCA Uncharacterized protein OS=Felis catus GN=ALDH2 PE=3 SV=1
+MFR----AAASLGPRLGRRLLSAAATQAVPAPNQQPE-VLFNQ---IFINNEWHDAVSRK
+TFPTVNPSTGEVICQVAEGDKEDVDKAVKAARDAFQWGSPWRRMDASDRGRLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+GVVNIIPGFGPTAGAAIASHQDVDKVAFTGSTEVGHLIQIAAGSSNLKRVTLELGGKSPN
+IIMSDADMNWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYAEFVERSVARAKSRVVGNPF
+DSQTEQGPQVDKTQFQKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+AKEEI--FGPVMQILKFKTIEEVIGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWV
+NCYDVFGAQSPFGGYKMSGNGRELGEYGLQAYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|F1PBJ8|F1PBJ8_CANLF Uncharacterized protein OS=Canis lupus familiaris GN=ALDH2 PE=3 SV=2
+MLRAAALAAAGLRPRLGRRLLSAASSQAVPAPNQQPE-VFYNQ---IFINNEWHDAVSKK
+TFPTINPSTGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASDRGRLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLRCLRYYAGWADKYHGKTIPIDGDFFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVIVMKVAEQTPLTALYVANLIKEAGFPP
+GVVNIIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLVQVAAGNSNLKRVTLELGGKSPN
+IIMSDADMNWAVEQAHFALFFNQGQCCCAGSRTFVQEDVYAEFVERSVARAKSRVVGNPF
+DSQTEQGPQVDETQFKKILGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDTMTI
+AKEEI--FGPVMQILKFKTIEEVIGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWI
+NCYDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>sp|P12762|ALDH2_HORSE Aldehyde dehydrogenase, mitochondrial OS=Equus caballus GN=ALDH2 PE=1 SV=1
+---------------------AAAATQAVPAPNQQPE-VFYNQ---IFINNEWHDAVSKK
+TFPTVNPSTGEVICQVAAGDKEDVDRAVKAARAAFQLGSPWRRMDASDRGRLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+HEPVGVCGQIIPWNFPLLMQAAKLGPALATGNVVVMKVAEQTPLTALYVANLTKEAGFPP
+GVVNVVPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGRSNLKKVTLELGGKSPN
+IIVSDADMDWAVEQAHFALFFNQGQCCGAGSRTFVQEDVYAEFVERSVARAKSRVVGNPF
+DSQTEQGPQVDETQFNKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+AKEEI--FGPVMQILKFKTIEEVVGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWI
+NCYDVFGAQSPFGGYKMSGNGRELGEYGLQAYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>sp|P47738|ALDH2_MOUSE Aldehyde dehydrogenase, mitochondrial OS=Mus musculus GN=Aldh2 PE=1 SV=1
+MLR-AALTTVRRGPRLSRLL-SAAATSAVPAPNHQPE-VFCNQ---IFINNEWHDAVSRK
+TFPTVNPSTGEVICQVAEGNKEDVDKAVKAARAAFQLGSPWRRMDASDRGRLLYRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+GVVNIVPGFGPTAGAAIASHEGVDKVAFTGSTEVGHLIQVAAGSSNLKRVTLELGGKSPN
+IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQENVYDEFVERSVARAKSRVVGNPF
+DSRTEQGPQVDETQFKKILGYIKSGQQEGAKLLCGGGAAADRGYFIQPTVFGDVKDGMTI
+AKEEI--FGPVMQILKFKTIEEVVGRANDSKYGLAAAVFTKDLDKANYLSQALQAGTVWI
+NCYDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTV----------------------
+---------------TVKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>sp|P05091|ALDH2_HUMAN Aldehyde dehydrogenase, mitochondrial OS=Homo sapiens GN=ALDH2 PE=1 SV=2
+MLR----AAARFGPRLGRRLLSAAATQAVPAPNQQPE-VFCNQ---IFINNEWHDAVSRK
+TFPTVNPSTGEVICQVAEGDKEDVDKAVKAARAAFQLGSPWRRMDASHRGRLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTIPIDGDFFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+GVVNIVPGFGPTAGAAIASHEDVDKVAFTGSTEIGRVIQVAAGSSNLKRVTLELGGKSPN
+IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYDEFVERSVARAKSRVVGNPF
+DSKTEQGPQVDETQFKKILGYINTGKQEGAKLLCGGGIAADRGYFIQPTVFGDVQDGMTI
+AKEEI--FGPVMQILKFKTIEEVVGRANNSTYGLAAAVFTKDLDKANYLSQALQAGTVWV
+NCYDVFGAQSPFGGYKMSGSGRELGEYGLQAYTEVKTV----------------------
+---------------TVKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>bmy_05733T0
+MLR--AVVLAAARPCQGRRLLSAAATPAVPAPNQQPE-VFYNK---IFINNEWHDSVSKR
+TFPTINPSTGDVICHVAEGDKEDVDRAVKAARAAFQLGSPWRRMDASKRGWLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLRCLRYYAGWADKYHGKTIPIDGDYFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLTALYVANLIKEAGFPP
+GVVNIIPGFGPTAGAAIASHEDVDKVAFTGSTEVGHLIQTAAGNSNLKRVTLELGGKSPN
+IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYSKFVERSVARARSR------
+---------VDETQFKKVLGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+AKEEI--FGPVMQILKFKTIEEVVRRANNSKYGLAAAVFTKDLDKAXYLSQALQAGTVWV
+NCYDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTV----------------------
+---------------TVKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>sp|Q2XQV4|ALDH2_PIG Aldehyde dehydrogenase, mitochondrial OS=Sus scrofa GN=ALDH2 PE=2 SV=1
+MLRPAALAAARLVLRQGRRLLSAAPTQAVPAPNQQPE-IFYNQ---IFINNEWHDAISKK
+TFPTVNPSTGDVICHVAEGDKEDVDRAVEAARAAFQLGSPWRRLDASDRGRLLNRLADLI
+ERDRTYLAALETLDNGKPYVISYLVDLDMVLKCLRYYAGWADKYHGKTLPIDGDYFSYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVSEQTPLTALYVANLIKEAGFPP
+GVVNIVPGYGPTAGAAIASHEDVDKVAFTGSTEVGHLIQVAAGKSNLKRVTLELGGKSPN
+IIMSDADMDWAVEQAHFALFFNQGQCCCAGSRTFVQEDIYAEFVERSVARARSRVVGNPF
+DSRTEQGPQIDETQFKKILGYIKSGKEEGAKLLCGGGAAADRGYFIQPTVFGDVQDGMTI
+AKEEI--FGPVMQILKFKTIEEVIGRANNSKYGLAAAVFTKDLDKANYLSQALQAGTVWV
+NCYDVFGAQSPFGGYKLSGSGRELGEYGLQAYTEVKTV----------------------
+---------------TVKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|H0Z8A2|H0Z8A2_TAEGU Uncharacterized protein OS=Taeniopygia guttata GN=ALDH2 PE=3 SV=1
+-------------------------ASPIPAPNPRPD-IAYNK---IFINNEWHDAVSKK
+TFPSINPATGEVICQVAEGDKADVDKAVKAAQAAFQLGSPWRRMDASHRGKLLNRLADLI
+ERDRAYLAALETLDNGKPYAISYLVDLDMVVKCLRYFAGWSDKFHGKTIPLDGDFFCYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNVVVMKVAEQTPLSALYVASLIKEAGFPP
+GVVNIIPGYGPTAGAAISSHMDVDKVAFTGSTEVGHLIQKAAAESNLKRVTLELGGKSPN
+IIMSDADMDWAVDQAHFALFFNQGQCCCAGSRTYVQEDIYNEFVERSVEKAKARVVGNPF
+DFKTEQGPQVDEEQFKKILGYISTGQREGAKLLCGGNPAADRGYFIQPTVFGDVQDSMTI
+AREEI--FGPVMQILKFRTIEEVIQRANDSKYGLAAAVFTKDLDKANFVSQSLRAGTVWI
+NCYDVFGAQAPFGGYKASGNGRELGEYGLEAYVEVKN-----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|B5X2T3|B5X2T3_SALSA Aldehyde dehydrogenase, mitochondrial OS=Salmo salar GN=ALDH2 PE=2 SV=1
+MLR---IVLSRILPRISGISNCQYSAAAIPVPSAHPE-VHYNK---LFINNEWQDAVSKR
+SFPTINPATGEVICQVAEADKADVDKAVKAAREAFRFGSPWRRMDASDRGLLLSRLADAI
+ERDTAYLAELETLDNGKPYAVSYSVDVPMVVKCLRYYAGWADKWEGKTIPIDGDFFCYTR
+HEPIGVCGQIIPWNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLIKEVGFPP
+GVVNILPGMGPSAGSAIASHMDVDKVAFTGSTEVGHLIQQASGSSNLKKVTLELGGKSPN
+IIMSDANMAEAVEQSHFALFFNQGQCCCAGSRTYVQDTIYDEFMERSVERAKSRVVGDPF
+NMKTEQGPQVDEEQFKKILGYISSGKREGAKLMCGGGVAADRGYFIQPTIFGDVQDGMTI
+AREEI--FGPVMQILKFKTLEEVVERANDTKYGLAAAVFTKDIDKAHYISSGLRAGTVWI
+NCYDVFGVQAPFGGYKYSGNGRELGEYGLDNYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|A0A1A8KVV6|A0A1A8KVV6_NOTKU Aldehyde dehydrogenase 2 family (Mitochondrial) OS=Nothobranchius kuhntae GN=ALDH2 PE=3 SV=1
+MLR---AVFYRAFRPLNRLSVCHYSS-AIPAPNSQPE-VHYNR---LFINNEWHDAISGK
+TFPTINPATGEVICQVAEADVADVDKAVKAARDAFRFGSPWRRMDASDRGLLLSRLADAI
+ERDAAYLAELETLDNGKPYAVAFSVDVPMVIKCLRYYAGWADKWEGKTIPIDGDYFCYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLIKEVGFPD
+GVVNIVPGMGPTAGAAIAKHMDVDKVAFTGSTEVGHLIQQASGSSNLKRVTLELGGKSPN
+IILSDASLEDAVEQSHFALFFNQGQCCCAGSRTYVQADVYDEFVERSVERARRRVVGNPF
+DLKTEQGPQVDQEQFNKILGYISVGKREGAKLMCGGGVAADRGYFIQPTVFGDVQDNMTI
+AREEI--FGPVMQILKFKTLEEVITRANDTKYGLAAAVFTKDIDKANYLSNGLRAGTVWI
+NCYDVFGAQAPFGGYKASGNGRELGEYGLESYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|H2UGI1|H2UGI1_TAKRU Uncharacterized protein OS=Takifugu rubripes GN=aldh2 PE=3 SV=1
+MLR---TVLLRALPRFGCPAVCRYSAAAIPVPNTQPE-VHFNK---LFINNEWHDAVNGK
+TFPTINPSTGEVICQVAEADEADVNKAVKAARDAFRLGSPWRRTDASHRGLLLNRLADAI
+ERDSAYLAELETLDNGKPYAVAYSVDLPNVVKCLRYYAGWADKWEGKTIPIDGDFFCYTR
+HEPIGVCGQIIPWNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLVKEVGFPE
+GVVNILAGMGPTAGAAIVRHMDVDKVAFTGSTEVGHLIQQASGSSNLKKVTLELGGKSPN
+IILSDANMEDAVEQSHFALFFNQGQCCCAGSRTYVQEDVYEEFLERSAERAKRRLVGDPF
+DLKTEQGPQVDLEQFNKILGYISTGKREGAKLMCGGGVAANKGYFIQPTVFGDVQDNMTI
+AREEI--FGPVMQILKFKSLEEVVERANDTKYGLAAAVFTKDIDKAHYISNGLRAGTVWI
+NCYDVFGAQAPFGGYKASGIGRELGEYGLTNYTEVKTV----------------------
+---------------TIRVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|I3JMK8|I3JMK8_ORENI Uncharacterized protein OS=Oreochromis niloticus GN=aldh2 PE=3 SV=1
+MLR---AVLSRSLPTLRRLPVCHYSAAAIPAPSTQPE-VHYNK---LFINNEWQDAVSGK
+TFPTINPASGEVICQVAEADEADVEKAVKAASNAFRLGSPWRRMDASHRGLLLNRLADAI
+ERDAAYLAELETLDNGKPYAVAYAVDLPTVVKCLRYYAGWADKWEGKTIPIDGDYFCYTR
+HEPVGVCGQIIPWNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLIKEVGFPE
+GVVNILPGMGPTAGAAIARHMDVDKVAFTGSTEVGHLIQQASGSSNLKKVTLELGGKSPN
+IILSDADMEYAVEQSHFALFFNQGQCCCAGSRTYVQADVYDEFVERSVERAKKRVVGDPF
+DLKTEQGPQIDQEQFNKILGYISSGKREGAKLMCGGGIAADRGYFIQPTVFGDVQDNMTI
+AREEI--FGPVMQILKFKTLEEVVTRANDTKYGLAAAVFTKDIDKANYVSSGLRAGTVWI
+NCYDVFGAQAPFGGYKASGVGRELGQYGLDNYTEVKTV----------------------
+---------------TIKVPQKNS------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
+>tr|L7XDL4|L7XDL4_ORYLA Mitochondrial aldehyde dehydrogenase (Fragment) OS=Oryzias latipes GN=Aldh2 PE=2 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------WNFPLLMQAWKLGPALATGNTVVMKVAEQTPLTALYVASLIKEVGFPE
+GVVNILPGMGPTAGAAIARHMDVDKVAFTGST----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------------
