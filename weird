@@ -1,0 +1,5 @@
+f = open("/share/data/weird.txt")
+D = {}
+lines = f.readlines()
+
+print lines
