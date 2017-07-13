@@ -1,0 +1,29 @@
+def palindrome(x):
+  s = ""
+  #changing to complementary nucleotides
+  for i in range(len(x)):
+    if x[i] == "A":
+      s = s + "T"
+    elif x[i] == "T":
+      s = s + "A"
+    elif x[i] == "C":
+      s = s + "G"
+    elif x[i] == "G":
+      s = s + "C"
+  print s
+ 
+  if s == s[::-1]:
+    print "palindrome"
+  else:
+    print "not a palindrome"
+
+
+def cut(s):
+  for i in range(0,len(s)):
+    if s[i,i+4] == 
+      
+#raw imput function for entering the desired DNA strand
+x = raw_input("enter strand:  ")
+x = x[::-1]
+
+palindrome(x)
