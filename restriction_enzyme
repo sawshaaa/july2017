@@ -22,7 +22,7 @@ def palindrome(x):
 def cut(s):
   for i in range(0,len(s)):
     if s[i] == "G" and s[i+1] == "A" and s[i+2] == "T" and s[i+3] == "C":
-      s = s[0,i] and s[i+3,len(s)]
+      s = s[0,i], s[i+3,len(s)]
   print s
       
 #raw imput function for entering the desired DNA strand

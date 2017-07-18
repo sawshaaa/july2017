@@ -1,0 +1,3 @@
+f = open("/share/data/adh/ALDH.txt")
+line = f.readline()
+print line
